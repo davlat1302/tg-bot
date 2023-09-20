@@ -1,9 +1,9 @@
 name = "schedule"
 version = "0.1.0"
-description = ""
+description = "nothing"
 authors = ["Davlatbek Yuldashov <davlatyuldashov404@gmail.com>"]
 readme = "README.md"
-packages = [{include = "schedule_bot"}]
+packages = [{include = "main"}]
 
 [tool.poetry.dependencies]
 python = "3.11.4"
